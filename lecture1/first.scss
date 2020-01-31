@@ -1,0 +1,10 @@
+$color:rgb(255,0,0);
+$background-color:rgba(245,176,234,1);
+p {
+    color: $color;
+}
+
+body {
+    border:10px solid $color;
+    background-color: $background-color;
+}
